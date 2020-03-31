@@ -1,0 +1,1 @@
+draw_sprite_ext(s_blob, -1, x, y, 1, 1, spin_, image_blend, image_alpha);
